@@ -2,7 +2,7 @@
 
 released at 2026-02-26 19:31:16 KST
 
-updated at 2026-10-16 20:40:57 KST
+updated at 2026-10-30 01:53:48 KST
 
 |[IntelliJ](https://velog.io/tags/IntelliJ)|[IntelliJ Plugin](https://velog.io/tags/IntelliJ-Plugin)|[boj](https://velog.io/tags/boj)|[gradle](https://velog.io/tags/gradle)|[jetbrains](https://velog.io/tags/jetbrains)|[kotlin](https://velog.io/tags/kotlin)|[백준](https://velog.io/tags/백준)|
 |----|----|----|----|----|----|----|
