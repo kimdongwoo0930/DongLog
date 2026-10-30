@@ -2,7 +2,7 @@
 
 released at 2026-03-11 22:55:26 KST
 
-updated at 2026-10-28 22:51:45 KST
+updated at 2026-10-30 13:50:35 KST
 
 
 > 🙋 이 글에서 다루는 것들
