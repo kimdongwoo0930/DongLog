@@ -2,7 +2,7 @@
 
 released at 2024-05-28 22:35:07 KST
 
-updated at 2026-09-05 20:23:33 KST
+updated at 2026-11-01 04:17:15 KST
 
 |[code-server](https://velog.io/tags/code-server)|[docker](https://velog.io/tags/docker)|[mac](https://velog.io/tags/mac)|[vscode](https://velog.io/tags/vscode)|
 |----|----|----|----|
