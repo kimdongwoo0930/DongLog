@@ -2,7 +2,7 @@
 
 released at 2026-02-26 20:12:10 KST
 
-updated at 2026-11-01 00:20:30 KST
+updated at 2026-11-01 13:53:05 KST
 
 > **[IntelliJ 플러그인으로 BOJ 정복하기] 시리즈**
 > 1. [EP.01] 왜 IntelliJ 플러그인인가? — 개발 배경 & 환경 구축
