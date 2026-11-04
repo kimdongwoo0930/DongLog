@@ -2,7 +2,7 @@
 
 released at 2026-01-28 13:45:47 KST
 
-updated at 2026-10-28 07:39:10 KST
+updated at 2026-11-05 02:34:28 KST
 
 |[BFS](https://velog.io/tags/BFS)|[Breadth_first_search](https://velog.io/tags/Breadth_first_search)|[python](https://velog.io/tags/python)|[그래프](https://velog.io/tags/그래프)|[알고리즘](https://velog.io/tags/알고리즘)|[코딩테스트](https://velog.io/tags/코딩테스트)|[탐색](https://velog.io/tags/탐색)|[트리](https://velog.io/tags/트리)|
 |----|----|----|----|----|----|----|----|
