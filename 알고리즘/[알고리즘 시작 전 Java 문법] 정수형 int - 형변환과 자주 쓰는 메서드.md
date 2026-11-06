@@ -2,7 +2,7 @@
 
 released at 2026-11-04 18:31:49 KST
 
-updated at 2026-11-06 03:02:09 KST
+updated at 2026-11-06 13:45:45 KST
 
 코테뿐만 아니라 개발을 하다 보면 정수형 변수와 형변환을 많이 사용하게 된다.
 그래서 이번에는 여러 타입을 공부할 겸 정리해보려고 한다.
@@ -78,7 +78,7 @@ Math.abs(-7);        // 7  절댓값
 Math.pow(2, 3);      // 8.0   거듭제곱
 Math.sqrt(16);       // 4.0   루트값
 ```
-![](https://velog.velcdn.com/images/kimdongwoo0930/post/dafe7757-6556-4c87-8393-30047baece2e/image.png)
+
 
 ## Integer.MAX_VALUE / MIN_VALUE 활용
 
