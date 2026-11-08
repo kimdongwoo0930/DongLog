@@ -2,7 +2,7 @@
 
 released at 2026-02-22 18:31:50 KST
 
-updated at 2026-11-04 23:33:42 KST
+updated at 2026-11-09 06:25:55 KST
 
 |[CTE](https://velog.io/tags/CTE)|[mysql](https://velog.io/tags/mysql)|[sql](https://velog.io/tags/sql)|[with](https://velog.io/tags/with)|[데이터베이스](https://velog.io/tags/데이터베이스)|[서브쿼리](https://velog.io/tags/서브쿼리)|[코딩테스트](https://velog.io/tags/코딩테스트)|
 |----|----|----|----|----|----|----|

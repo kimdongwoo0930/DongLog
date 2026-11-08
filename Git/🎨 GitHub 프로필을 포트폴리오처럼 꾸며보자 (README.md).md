@@ -2,7 +2,7 @@
 
 released at 2026-02-01 17:17:11 KST
 
-updated at 2026-11-06 20:20:02 KST
+updated at 2026-11-09 02:00:44 KST
 
 |[Markdown](https://velog.io/tags/Markdown)|[github](https://velog.io/tags/github)|[profile](https://velog.io/tags/profile)|[readme](https://velog.io/tags/readme)|
 |----|----|----|----|

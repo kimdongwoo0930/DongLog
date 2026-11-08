@@ -2,7 +2,7 @@
 
 released at 2024-05-29 21:30:44 KST
 
-updated at 2026-11-03 01:33:02 KST
+updated at 2026-11-09 01:58:03 KST
 
 |[code-server](https://velog.io/tags/code-server)|[extension](https://velog.io/tags/extension)|[vscode](https://velog.io/tags/vscode)|
 |----|----|----|

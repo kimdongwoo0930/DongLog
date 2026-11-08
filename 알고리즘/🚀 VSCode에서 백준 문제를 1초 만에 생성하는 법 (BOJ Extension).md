@@ -2,7 +2,7 @@
 
 released at 2026-02-16 17:48:12 KST
 
-updated at 2026-10-28 06:27:57 KST
+updated at 2026-11-09 02:00:43 KST
 
 |[algorithm](https://velog.io/tags/algorithm)|[extension](https://velog.io/tags/extension)|[vscode](https://velog.io/tags/vscode)|[백준](https://velog.io/tags/백준)|[알고리즘](https://velog.io/tags/알고리즘)|[코딩테스트](https://velog.io/tags/코딩테스트)|
 |----|----|----|----|----|----|

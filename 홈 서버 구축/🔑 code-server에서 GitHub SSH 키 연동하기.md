@@ -2,7 +2,7 @@
 
 released at 2026-01-22 19:21:57 KST
 
-updated at 2026-09-28 08:22:06 KST
+updated at 2026-11-09 01:58:31 KST
 
 |[code-server](https://velog.io/tags/code-server)|[docker](https://velog.io/tags/docker)|[github](https://velog.io/tags/github)|[ssh](https://velog.io/tags/ssh)|
 |----|----|----|----|
