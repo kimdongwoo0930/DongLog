@@ -2,7 +2,7 @@
 
 released at 2026-02-16 18:17:17 KST
 
-updated at 2026-11-09 02:00:45 KST
+updated at 2026-11-09 08:35:28 KST
 
 |[algorithm](https://velog.io/tags/algorithm)|[mysql](https://velog.io/tags/mysql)|[sql](https://velog.io/tags/sql)|[vscode](https://velog.io/tags/vscode)|[알고리즘](https://velog.io/tags/알고리즘)|
 |----|----|----|----|----|

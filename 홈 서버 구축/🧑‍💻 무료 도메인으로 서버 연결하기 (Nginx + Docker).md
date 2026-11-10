@@ -2,7 +2,7 @@
 
 released at 2026-01-22 17:09:02 KST
 
-updated at 2026-11-09 01:58:04 KST
+updated at 2026-11-10 07:13:31 KST
 
 |[Infra](https://velog.io/tags/Infra)|[Nginx](https://velog.io/tags/Nginx)|[code-server](https://velog.io/tags/code-server)|[docker](https://velog.io/tags/docker)|[domain](https://velog.io/tags/domain)|
 |----|----|----|----|----|
