@@ -2,7 +2,7 @@
 
 released at 2026-02-22 18:43:28 KST
 
-updated at 2026-11-09 02:00:40 KST
+updated at 2026-11-12 06:44:12 KST
 
 |[branch](https://velog.io/tags/branch)|[git](https://velog.io/tags/git)|[github](https://velog.io/tags/github)|[개발환경](https://velog.io/tags/개발환경)|[버전관리](https://velog.io/tags/버전관리)|
 |----|----|----|----|----|
