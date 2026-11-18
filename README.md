@@ -4,7 +4,7 @@
 
 | 시리즈 | 포스트 수 |
 |---|---:|
-| [알고리즘](./알고리즘/) | 9 |
+| [알고리즘](./알고리즘/) | 10 |
 | [SpringBoot](./SpringBoot/) | 1 |
 | [JetBrain Plugin 제작](./JetBrain%20Plugin%20제작/) | 3 |
 | [Git](./Git/) | 2 |
