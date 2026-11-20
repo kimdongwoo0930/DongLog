@@ -2,7 +2,7 @@
 
 released at 2026-02-21 16:33:21 KST
 
-updated at 2026-11-19 01:34:05 KST
+updated at 2026-11-20 02:52:49 KST
 
 |[InnerJoin](https://velog.io/tags/InnerJoin)|[JOIN](https://velog.io/tags/JOIN)|[leftjoin](https://velog.io/tags/leftjoin)|[mysql](https://velog.io/tags/mysql)|[sql](https://velog.io/tags/sql)|[데이터베이스](https://velog.io/tags/데이터베이스)|[코딩테스트](https://velog.io/tags/코딩테스트)|
 |----|----|----|----|----|----|----|
