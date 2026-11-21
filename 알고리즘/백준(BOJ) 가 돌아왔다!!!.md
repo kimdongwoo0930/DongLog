@@ -2,7 +2,7 @@
 
 released at 2026-11-20 14:54:40 KST
 
-updated at 2026-11-20 17:06:14 KST
+updated at 2026-11-21 17:03:48 KST
 
 |[boj](https://velog.io/tags/boj)|[백준](https://velog.io/tags/백준)|
 |----|----|
