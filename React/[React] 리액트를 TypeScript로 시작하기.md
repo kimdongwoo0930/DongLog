@@ -2,7 +2,7 @@
 
 released at 2024-05-30 19:57:48 KST
 
-updated at 2026-10-10 19:06:26 KST
+updated at 2026-11-24 19:30:12 KST
 
 |[Node](https://velog.io/tags/Node)|[React](https://velog.io/tags/React)|[ts](https://velog.io/tags/ts)|[typescript](https://velog.io/tags/typescript)|[리액트](https://velog.io/tags/리액트)|[타입스크립트](https://velog.io/tags/타입스크립트)|
 |----|----|----|----|----|----|
