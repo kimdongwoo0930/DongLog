@@ -2,7 +2,7 @@
 
 released at 2026-11-20 14:40:29 KST
 
-updated at 2026-11-26 15:18:40 KST
+updated at 2026-11-28 04:24:41 KST
 
 |[ArrayList](https://velog.io/tags/ArrayList)|[Java](https://velog.io/tags/Java)|[List](https://velog.io/tags/List)|
 |----|----|----|

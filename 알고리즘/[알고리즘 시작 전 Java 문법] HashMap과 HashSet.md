@@ -2,7 +2,7 @@
 
 released at 2026-11-26 23:08:15 KST
 
-updated at 2026-11-27 00:46:32 KST
+updated at 2026-11-28 09:00:12 KST
 
 ![](https://velog.velcdn.com/images/kimdongwoo0930/post/6fc1ca33-d7d9-4f0a-8bfd-f6d47e50a6ea/image.png)
 ## 한 줄 결론
